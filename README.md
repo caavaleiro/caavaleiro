@@ -43,7 +43,7 @@
 
 <h3> :earth_americas: Contact me: </h3> 
 
-[![Gmail Badge](https://img.shields.io/badge/-eu@leojacon.dev-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcorreabruck@gmail.com)](mailto:gabrielcorreabruck@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-knight-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcorreabruck@gmail.com)](mailto:gabrielcorreabruck@gmail.com)
 [![GitHub Caavaleiro]( https://img.shields.io/github/followers/caavaleiro?label=follow&style=social)](https://github.com/caavaleiro)
 
 <div>
